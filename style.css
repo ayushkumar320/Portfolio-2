@@ -1,0 +1,23 @@
+.myimg{
+    border-radius: 30px;
+}
+.bold{
+        font-size: 28px;
+}
+.heading1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+.p1{
+    font-size: 20px;
+}
+.card{
+    width: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.card1{
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
